@@ -1,0 +1,9 @@
+<script>start("/Users/jr./webserver/templates/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about.html","about.html",0,4757,"4.6 kB",1743115100,"3/27/25, 6:38:20 PM");</script>
+<script>addRow("components.html","components.html",0,9130,"8.9 kB",1743113121,"3/27/25, 6:05:21 PM");</script>
+<script>addRow("contact.html","contact.html",0,5783,"5.6 kB",1743117718,"3/27/25, 7:21:58 PM");</script>
+<script>addRow("index.html","index.html",0,2851,"2.8 kB",1743604254,"4/2/25, 10:30:54 AM");</script>
+<script>addRow("thankyou.html","thankyou.html",0,3505,"3.4 kB",1743122177,"3/27/25, 8:36:17 PM");</script>
+<script>addRow("work.html","work.html",0,5136,"5.0 kB",1743121851,"3/27/25, 8:30:51 PM");</script>
+<script>addRow("works.html","works.html",0,8262,"8.1 kB",1743116106,"3/27/25, 6:55:06 PM");</script>

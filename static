@@ -1,0 +1,7 @@
+<script>start("/Users/jr./webserver/static/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,192,"192 B",1743113107,"3/27/25, 6:05:07 PM");</script>
+<script>addRow("main.3f6952e4.css","main.3f6952e4.css",0,85188,"83.2 kB",1743113092,"3/27/25, 6:04:52 PM");</script>
+<script>addRow("main.70a66962.js","main.70a66962.js",0,138255,"135 kB",1743113102,"3/27/25, 6:05:02 PM");</script>
+<script>addRow("script.js","script.js",0,0,"0 B",1742862796,"3/24/25, 8:33:16 PM");</script>
+<script>addRow("style.css","style.css",0,0,"0 B",1742862812,"3/24/25, 8:33:32 PM");</script>
